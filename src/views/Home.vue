@@ -5,6 +5,8 @@
     <HelloWorld msg="欢迎来到Vue.js应用"/>
     <div class="navigation-hint">
       <p>使用顶部导航栏切换不同页面</p>
+      <p>使用顶部导航栏切换不同页面</p>
+      <p>使用顶部导航栏切换不同页面</p><p>使用顶部导航栏切换不同页面</p><p>使用顶部导航栏切换不同页面</p>
     </div>
   </div>
 </template>
